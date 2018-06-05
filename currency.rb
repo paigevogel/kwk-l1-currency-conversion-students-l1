@@ -5,3 +5,4 @@ end
 def eur_to_usd(euro)
   puts euro*1.17
 end
+eur_to_usd(1)
