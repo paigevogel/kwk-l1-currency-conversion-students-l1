@@ -1,2 +1,2 @@
-def usd_to_eur
-  
+def usd_to_eur(dollar)
+  puts 
